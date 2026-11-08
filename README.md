@@ -16,24 +16,10 @@ HTML • CSS • JavaScript • React
 
 Olá! Meu nome é José Felipe, tenho 18 anos e estou construindo minha jornada no mundo do desenvolvimento web.
 
-Atualmente, trabalho e estudo principalmente HTML e CSS, com foco na criação de interfaces modernas e responsivas.
+Atualmente, trabalho e estudo principalmente HTML, CSS e JS, com foco na criação de interfaces modernas e responsivas.
 
-Também sou contribuidor da DevClub e, no momento, estou aprofundando meus conhecimentos em JavaScript e começando minha jornada com React.
+Também sou contribuidor da DevClub, no momento estou aprofundando meus conhecimentos em JavaScript e começando minha jornada com React.
 
-const joseFelipe = {
-    idade: 18,
-    area: "Front-End",
-    conhecimentos: [
-        "HTML",
-        "CSS"
-    ],
-    estudando: [
-        "JavaScript",
-        "React"
-    ],
-    comunidade: "DevClub",
-    objetivo: "Me tornar um desenvolvedor Front-End cada vez melhor"
-};
 🚀 Tecnologias
 
 <div align="center">
@@ -54,14 +40,7 @@ const joseFelipe = {
 
 </div>
 
-📚 Atualmente estudando
-🟨 JavaScript
-
 Aprofundando meus conhecimentos em JavaScript para criar aplicações mais dinâmicas e interativas.
-
-⚛️ React
-
-Começando a explorar React e seus principais conceitos para desenvolver interfaces modernas e reutilizáveis.
 
 🎨 Projeto em destaque
 📱 Projeto de Responsividade
@@ -81,13 +60,7 @@ Flexbox
 Media Queries
 
 🔗 Ver projeto
-<div align="lefth">
-📈 Minha evolução<br>
-HTML          ████████████████████ 100%<br>
-CSS           ████████████████████ 100%<br>
-JavaScript    ████████████░░░░░░░░  60%<br>
-React         ███████░░░░░░░░░░░░░  35%<br>
-</div>
+
 📌 Esses números representam apenas uma forma visual de mostrar o que estou estudando no momento.
 
 🤝 DevClub
@@ -102,13 +75,6 @@ Faço parte da comunidade DevClub, onde venho estudando, praticando e desenvolve
 
 
 
-
-
-
-
-
-
-
 </div>
 
 <div align="center">
@@ -116,13 +82,6 @@ Faço parte da comunidade DevClub, onde venho estudando, praticando e desenvolve
 
 
 </div>
-
-
-
-GITHUB
-LINKEDIN
-INSTAGRAM
-
 <div align="center">
 
 🚀 Sempre aprendendo. Sempre evoluindo.
